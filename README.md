@@ -9,9 +9,9 @@ Loren Olson
 
 
 ### Course files repository
-Notes. Slides and other resources from class discussion.
-Readings. PDF readings from assignments.
-Examples. Example projects from class discussion.
+- Notes. Slides and other resources from class discussion.
+- Readings. PDF readings from assignments.
+- Examples. Example projects from class discussion.
 
 
 ### Tin framework

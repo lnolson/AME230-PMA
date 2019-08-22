@@ -1,6 +1,6 @@
 ## Programming for Media Arts
 AME 230<br>
-Spring 2019<br>
+Fall 2019<br>
 School of Arts, Media and Engineering<br>
 Herberger Institute for Design and the Arts<br>
 Arizona State University<br>
